@@ -1,0 +1,14 @@
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\bin\Debug\KuerzerModels.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\bin\Debug\KuerzerModels.pdb
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\bin\Debug\EntityFramework.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\bin\Debug\EntityFramework.xml
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.pdb
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\bin\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\bin\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\bin\Debug\EntityFramework.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\bin\Debug\EntityFramework.xml
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.pdb

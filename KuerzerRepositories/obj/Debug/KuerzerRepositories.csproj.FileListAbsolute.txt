@@ -1,0 +1,18 @@
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.pdb
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\EntityFramework.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\EntityFramework.xml
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.csprojResolveAssemblyReference.cache
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.pdb
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerModels.dll
+c:\Users\zamap\documents\visual studio 2012\Projects\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.pdb
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\EntityFramework.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\EntityFramework.xml
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.dll
+C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.pdb

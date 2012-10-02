@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="67011EE1-8232-4E37-8575-3FCE46BA103A" ModuleId="KuerzerRepositories" />
+  <Module PersistentId="AA2F09AD-197E-4A07-AD85-CF7C568983E1" ModuleId="Kuerzer" />
+  <Module PersistentId="33F76F28-F19E-4F75-BB3D-0A8FCB64EB43" ModuleId="KuerzerModels" />
+  <Module PersistentId="B2A3B278-60E1-4C84-BCD0-2A7656E95B5C" ModuleId="Kuerzer.Tests" />
+  <Module PersistentId="KuerzerRepositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="KuerzerRepositories_1" />
+</Modules>
