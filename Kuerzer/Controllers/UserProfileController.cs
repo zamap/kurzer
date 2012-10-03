@@ -100,20 +100,13 @@ namespace Kuerzer.Controllers
 				var confirmationUrl = "http:/localhost:58516/api/UserProfile/ConfirmAccount?confirmation=" +
 									  HttpUtility.UrlEncode(confirmationToken) + "&email=" + clientEmail;
 				var confirmationLink = String.Format("<a href=\"{0}\">Click to confirm your registration</a>", confirmationUrl);
-
 				
-
 				var emailBodyText =
 					"<p>Thank you for signing up with us! Please confirm your registration by clicking the following link:</p>"
 					+ "<p>" + confirmationLink + "</p>"
 					+ "<p>In case you need it, here's the confirmation code:<strong> " + confirmationToken + "</strong></p>";
 					//"<p>There is you securetyKey: <strong>" + securetyKey + " </strong> Please use it like md5(securetyKey + <url>) <p>";
 
-				WebMail.SmtpServer = "pop3.epam.com";
-				WebMail.EnableSsl = false;
-				WebMail.UserName = "";
-				WebMail.From = "";
-				WebMail.Password = "";
 				WebMail.Send(clientEmail, "account confirmation", emailBodyText);
 				
 				return true;
@@ -135,11 +128,6 @@ namespace Kuerzer.Controllers
 				+ "<p>In case you need it, here's the security key:<strong> " + securetyKey + "</strong></p>" +
 				"<p> you can use it like md5(securetyKey + <url>) <p>";
 
-				WebMail.SmtpServer = "pop3.epam.com";
-				WebMail.EnableSsl = false;
-				WebMail.UserName = "";
-				WebMail.From = "";
-				WebMail.Password = "";
 				WebMail.Send(email, "account confirmation", emailBodyText);
 
 				return true;
