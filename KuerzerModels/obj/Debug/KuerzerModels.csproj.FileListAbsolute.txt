@@ -12,3 +12,10 @@ C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\bin\Debug\EntityFramew
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.csprojResolveAssemblyReference.cache
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.dll
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerModels\obj\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\bin\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\bin\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\bin\Debug\EntityFramework.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\bin\Debug\EntityFramework.xml
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\obj\Debug\KuerzerModels.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\obj\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerModels\obj\Debug\KuerzerModels.pdb

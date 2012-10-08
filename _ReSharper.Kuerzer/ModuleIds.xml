@@ -4,4 +4,6 @@
   <Module PersistentId="33F76F28-F19E-4F75-BB3D-0A8FCB64EB43" ModuleId="KuerzerModels" />
   <Module PersistentId="B2A3B278-60E1-4C84-BCD0-2A7656E95B5C" ModuleId="Kuerzer.Tests" />
   <Module PersistentId="KuerzerRepositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="KuerzerRepositories_1" />
+  <Module PersistentId="8F056093-89E1-444A-BBED-B7A94ECA4880" ModuleId="KuerzerApi" />
+  <Module PersistentId="E3CC07D2-ADFB-4544-B8BA-76895089474C" ModuleId="KuercerCommon" />
 </Modules>

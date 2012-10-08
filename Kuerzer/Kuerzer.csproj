@@ -122,13 +122,12 @@
     <Reference Include="WebActivator">
       <HintPath>..\packages\WebActivator.1.5.1\lib\net40\WebActivator.dll</HintPath>
     </Reference>
-    <Reference Include="WebMatrix.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.WebPages.Data.2.0.20710.0\lib\net40\WebMatrix.Data.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Web.WebPages.OAuth, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.OAuth.2.0.20710.0\lib\net40\Microsoft.Web.WebPages.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
     </Reference>
     <Reference Include="WebMatrix.WebData, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
@@ -179,16 +178,11 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApiControllerBase.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\LinksController.cs" />
-    <Compile Include="Controllers\UserApplicationController.cs" />
-    <Compile Include="Controllers\UserProfileController.cs" />
     <Compile Include="Filters\CheckClientAttribute.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Helper\ILinkCreator.cs" />
-    <Compile Include="Helper\LinkCreator.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="Scripts\App\greeter.ts" />
@@ -283,7 +277,9 @@
     <Content Include="Scripts\tests\webapi.get-result.tests.html" />
     <Content Include="Scripts\tests\webapi.get-result.tests.js" />
     <Content Include="Scripts\tests\webapi.testsuite.html" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -327,11 +323,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Helper\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\KuercerCommon\KuerzerCommon.csproj">
+      <Project>{E3CC07D2-ADFB-4544-B8BA-76895089474C}</Project>
+      <Name>KuerzerCommon</Name>
+    </ProjectReference>
     <ProjectReference Include="..\KuerzerModels\KuerzerModels.csproj">
       <Project>{33f76f28-f19e-4f75-bb3d-0a8fcb64eb43}</Project>
       <Name>KuerzerModels</Name>

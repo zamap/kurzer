@@ -1,10 +1,9 @@
 ﻿using System.Web.Http;
-using Kuerzer.Helper;
+using KuerzerCommon;
 using KuerzerRepositories;
 using KuerzerRepositories.Helpers;
 using KuerzerRepositories.Interfaces;
 using Ninject;
-using Ninject.Web.Mvc;
 
 namespace Kuerzer.App_Start
 {

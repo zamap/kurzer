@@ -16,3 +16,12 @@ C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\bin\Debug\Entity
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.csprojResolveAssemblyReference.cache
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.dll
 C:\Users\Alexander_Zamaraev\Desktop\Kuerzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\KuerzerRepositories.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\EntityFramework.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\KuerzerModels.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\KuerzerModels.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\bin\Debug\EntityFramework.xml
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.csprojResolveAssemblyReference.cache
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\KuerzerRepositories\obj\Debug\KuerzerRepositories.pdb

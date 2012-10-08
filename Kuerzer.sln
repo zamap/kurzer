@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuerzerModels", "KuerzerMod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuerzerRepositories", "KuerzerRepositories\KuerzerRepositories.csproj", "{67011EE1-8232-4E37-8575-3FCE46BA103A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuerzerApi", "KuerzerApi\KuerzerApi.csproj", "{8F056093-89E1-444A-BBED-B7A94ECA4880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuerzerCommon", "KuercerCommon\KuerzerCommon.csproj", "{E3CC07D2-ADFB-4544-B8BA-76895089474C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{67011EE1-8232-4E37-8575-3FCE46BA103A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67011EE1-8232-4E37-8575-3FCE46BA103A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67011EE1-8232-4E37-8575-3FCE46BA103A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F056093-89E1-444A-BBED-B7A94ECA4880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F056093-89E1-444A-BBED-B7A94ECA4880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F056093-89E1-444A-BBED-B7A94ECA4880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F056093-89E1-444A-BBED-B7A94ECA4880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CC07D2-ADFB-4544-B8BA-76895089474C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CC07D2-ADFB-4544-B8BA-76895089474C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CC07D2-ADFB-4544-B8BA-76895089474C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CC07D2-ADFB-4544-B8BA-76895089474C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

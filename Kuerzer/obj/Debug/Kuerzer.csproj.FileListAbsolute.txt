@@ -154,7 +154,6 @@ C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.WebPa
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.WebPages.Razor.dll
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebActivator.dll
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebGrease.dll
-C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.Data.dll
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.WebData.dll
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\KuerzerModels.pdb
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\KuerzerRepositories.pdb
@@ -175,7 +174,6 @@ C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.Razor
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.WebPages.xml
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\System.Web.WebPages.Razor.xml
-C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.Data.xml
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\Microsoft.Web.WebPages.OAuth.xml
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.WebData.xml
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\DotNetOpenAuth.AspNet.xml
@@ -187,3 +185,7 @@ C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\DotNetOpenAuth.O
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\obj\Debug\Kuerzer.csprojResolveAssemblyReference.cache
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\obj\Debug\Kuerzer.dll
 C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\obj\Debug\Kuerzer.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\KuerzerCommon.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\KuerzerCommon.pdb
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.Data.dll
+C:\Users\Alexander_Zamaraev\Documents\GitHub\kurzer\Kuerzer\bin\WebMatrix.Data.xml

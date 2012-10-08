@@ -41,7 +41,7 @@ namespace KuerzerModels
 
 
 		[DefaultValue(0)]
-		//[DisplayName("With group attended a link?")]
+		[DisplayName("With group attended a link?")]
 		public int Group { get; set; }
 
 		public DateTime? Created { get; set; }
